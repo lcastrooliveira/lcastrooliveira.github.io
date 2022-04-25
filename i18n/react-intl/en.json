@@ -1,0 +1,14 @@
+{
+  "about": "About",
+  "contact": "Contact",
+  "home": "Home",
+  "searchArticle": "Search an article",
+  "aboutTitle": "About this blog",
+  "aboutText": "This blog is a personal project which I wanted to do a while ago. I'm a very curious person that loves to experiment with many techs(a little mad scientist). Here you're going to find articles related to software development, DevOps culture, automation and whatever I feel like writing. The idea is that I'm going to publish between one and two articles per month. In the links below you can find my LinkedIn and Github profiles respectively.",
+  "getInTouchTitleContactForm": "Get in Touch",
+  "emailAddressContactForm": "E-mail Address",
+  "messageContactForm": "Message",
+  "submitContactForm": "Submit",
+  "thanksContactForm": "Thanks for getting in touch!",
+  "goBackToBlogContactForm": "Go back to blog"
+}

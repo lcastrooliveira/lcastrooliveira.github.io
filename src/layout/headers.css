@@ -1,0 +1,19 @@
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.languageSelector {
+    background-color: #bababa;
+    color: black;
+    padding: 0.5em 0.5em;
+    margin: 0 0.4em !important;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.languageSelectorSelected {
+    border: 3px solid gray
+}

@@ -1,0 +1,25 @@
+.listStyle {
+    position: absolute;
+    border-radius: 2px;
+    background-color: #fff;
+    margin: 0 0;
+    list-style-type: none;
+    padding: 0 0;    
+}
+
+.listItemStyle {
+    position: relative;
+    padding: 0.5em 0.5em;
+    /* background-color: red */
+    
+}
+
+.listItemStyle:hover {    
+    background-color: #aca2a2;    
+}
+
+.listItemStyle a {
+    color: #000;
+    text-decoration: none;
+}
+  
