@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-components-tags-js",
+    "path": "/tags/live/",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/posts/2020/2020-05-10-new-in-spring/index.pt/"},"frontmatter":{"title":"Live Sobre o Spring com o JUG3F"}}}]}},"pageContext":{"tag":"Live","locale":"en","hrefLang":"en-US","originalPath":"/tags/live/","dateFormat":"MM/DD/YYYY"}},
+    "staticQueryHashes": ["1239077767","2744905544","3280999885"]}

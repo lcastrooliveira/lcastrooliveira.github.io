@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-components-tags-js",
+    "path": "/tags/java/",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/posts/2020/2020-02-14-spring-batch/"},"frontmatter":{"title":"Using Spring Batch to create an ETL for financial information"}}},{"node":{"fields":{"slug":"/posts/2020/2020-02-14-spring-batch/index.pt/"},"frontmatter":{"title":"Usando Spring Batch para fazer ETL de informaçoes financeiras"}}}]}},"pageContext":{"tag":"Java","locale":"en","hrefLang":"en-US","originalPath":"/tags/java/","dateFormat":"MM/DD/YYYY"}},
+    "staticQueryHashes": ["1239077767","2744905544","3280999885"]}

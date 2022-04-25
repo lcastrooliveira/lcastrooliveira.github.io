@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Lucas Oliveira's Blog"}},"allMdx":{"group":[{"fieldValue":"ETL","totalCount":2},{"fieldValue":"JUG","totalCount":1},{"fieldValue":"Java","totalCount":2},{"fieldValue":"Live","totalCount":1},{"fieldValue":"Spring","totalCount":1},{"fieldValue":"Spring Batch","totalCount":2},{"fieldValue":"Spring Framework","totalCount":2}]}},"pageContext":{"locale":"en","hrefLang":"en-US","originalPath":"/tags/","dateFormat":"MM/DD/YYYY"}},
+    "staticQueryHashes": ["1239077767","2744905544","3280999885"]}
