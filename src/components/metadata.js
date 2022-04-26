@@ -8,7 +8,7 @@ const Metadata = () => (
     <Helmet>
       <title>lcastrooliveira.dev</title>
 
-      <meta property="og:image" content={socialBanner} />
+      <meta property="og:image:secure_url" content={socialBanner} />
       <meta property="og:image:width" content="600" />
       <meta property="og:image:height" content="315" />
       <meta property="og:locale" content="en_US" />
