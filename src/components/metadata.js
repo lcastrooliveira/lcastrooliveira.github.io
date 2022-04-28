@@ -1,14 +1,15 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-
-import socialBanner from '../images/social-banner.png'
+import React from "react"
+import Helmet from "react-helmet"
 
 const Metadata = () => (
   <div>
     <Helmet>
       <title>lcastrooliveira.dev</title>
-
-      <meta property="og:image:secure_url" content={socialBanner} />
+      <meta property="og:image" content="http://i.imgur.com/Lz9JlCo.png" />
+      <meta
+        property="og:image:secure_url"
+        content="https://i.imgur.com/Lz9JlCo.png"
+      />
       <meta property="og:image:width" content="600" />
       <meta property="og:image:height" content="315" />
       <meta property="og:locale" content="en_US" />
