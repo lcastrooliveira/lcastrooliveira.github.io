@@ -13,7 +13,7 @@ const SiteFooter = () => (
         variant: 'styles.footer',
       }}
     >
-      <div sx={{ p: 2 }}>© 2022 Lucas de Castro Oliveira</div>
+      <div sx={{ p: 2 }}>© 2025 Lucas de Castro Oliveira</div>
     </footer>
   </Box>
 )
