@@ -16,7 +16,7 @@
     "lint:fix": "eslint . --fix",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "predeploy": "gatsby build --prefix-paths",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d public --cname lcastrooliveira.dev"
   },
   "dependencies": {
     "@deckdeckgo/highlight-code": "^3.6.0",
